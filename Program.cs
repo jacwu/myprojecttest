@@ -3,6 +3,7 @@ using Microsoft.CognitiveServices.Speech.Audio;
 using Microsoft.CognitiveServices.Speech.Transcription;
 
 // add some comments
+// add more comments
 class Program
 {
     // This example requires environment variables named "SPEECH_KEY" and "SPEECH_REGION"
